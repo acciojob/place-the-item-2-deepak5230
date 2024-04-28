@@ -1,2 +1,47 @@
-
-/* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:center;
+}
+.item-1{
+	width:100px;
+	height:100px;
+	background-color:green;
+	font-size:50px;
+	color:black;;
+}
+.item-2{
+	width:100px;
+	height:100px;
+	background-color:red;
+	color:black;
+	font-size:50px;
+}
+.item-3{
+	width:100px;
+	height:100px;
+	background-color:blue;
+	color:black;
+	font-size:50px;
+}
+.holder{
+	display:flex;
+	flex-wrap:wrap;
+}
+.item-4{
+	width:100px;
+	height:100px;
+	background-color:green;
+	font-size:50px;
+}
+.item-9{
+width:100px;
+	height:100px;
+	background-color:red;
+	font-size:50px;
+}
+.item-10{
+	width:100px;
+	height:100px;
+	background-color:blue;
+	font-size:50px;
+}
